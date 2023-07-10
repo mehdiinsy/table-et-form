@@ -1,0 +1,40 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+   
+  
+  td {
+    border: 1px solid #0bbb22;
+    background-color: #bdf3bd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  th {
+    border: 1px solid #2628c2;
+    background-color: #b1b4f1;
+    text-align: left;
+    padding: 8px;
+  }
+   
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  fieldset{
+    width: 100px;
+  }
+
+  fieldset td {
+    background-color: rgb(162, 148, 238);
+    border: none;
+    font-weight:600;
+  }
